@@ -2,6 +2,10 @@
 
 This Codex project is a structured workspace for planning and researching the Japan trip from **24 Dec 2026 to 7 Jan 2027**.
 
+## Trip Dashboard
+
+Open [`dashboard/index.html`](dashboard/index.html) for the user-friendly itinerary, booking-status, and budget interface.
+
 Use it when you want Codex to:
 
 - Research accommodation, transport, activities, food, closures, luggage forwarding, or neighbourhood details.
@@ -13,7 +17,7 @@ Use it when you want Codex to:
 
 | Date | Location | Current Plan |
 | --- | --- | --- |
-| Thu 24 Dec 2026 | Tokyo | Arrive around 9 PM. Check in to booked Tokyo hotel. |
+| Thu 24 Dec 2026 | Christchurch to Tokyo | Fly to Tokyo Narita, arriving at 8:10 PM. Check in to Hotel Ann Tsukiji. |
 | Fri 25 Dec 2026 | Tokyo | First full Tokyo day around Tsukiji / Higashi-Ginza. |
 | Sat 26 Dec 2026 | Tokyo | Classic Tokyo city day. |
 | Sun 27 Dec 2026 | Tokyo to Kanazawa | Travel to Kanazawa. |
@@ -43,6 +47,7 @@ Use it when you want Codex to:
 | `prompts/` | Reusable prompts to give Codex. |
 | `templates/` | Markdown templates for comparisons and research notes. |
 | `examples/` | Example research tasks. |
+| `dashboard/` | User-friendly trip dashboard. |
 
 ## How To Use
 
@@ -61,4 +66,3 @@ Find the best way to travel from Kanazawa to Shirakawa-go to Takayama on 29 Dec 
 ## Important Rule
 
 Confirmed plans are stored in `data/itinerary/confirmed-itinerary.md`. Codex should not overwrite them unless you explicitly say a plan is confirmed or changed.
-

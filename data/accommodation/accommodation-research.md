@@ -6,7 +6,7 @@ Use this file for research notes, hotel shortlists, and comparisons. Do not move
 
 | Dates | City / Area | Nights | Status | Notes |
 | --- | --- | ---: | --- | --- |
-| 25-27 Dec 2026 | Tokyo, Tsukiji / Higashi-Ginza | 2 | To research | Prefer convenient food, transport, and easy sightseeing. |
+| 24-27 Dec 2026 | Tokyo, Tsukiji | 3 | Booked | Hotel Ann Tsukiji via Agoda, Booking ID 2019204632. See 2026-08-05 research log. |
 | 27-29 Dec 2026 | Kanazawa | 2 | Booked | Hotel Forza Kanazawa via Agoda.com. Total NZD 298. Payment settles 24 Dec 2026. Free cancellation until 24 Dec 2026. |
 | 29-31 Dec 2026 | Takayama | 2 | Booked | Hotel Kuretakeso Takayama-Ekimae via Trip.com. Total NZD 246.42 prepaid online, plus JPY 600 accommodation tax at hotel. Free cancellation before 23:59 on 25 Dec 2026 hotel local time. |
 | 5-7 Jan 2027 | Tokyo | 2 | To research | Final stay before evening flight to Christchurch. |
@@ -14,6 +14,22 @@ Use this file for research notes, hotel shortlists, and comparisons. Do not move
 ## Research Log
 
 Add new research under dated headings using `templates/accommodation-comparison-template.md`.
+
+### 2026-08-05 - Gmail Japan Label Booking Reconciliation
+
+Research date: 2026-08-05
+
+Source: booking-confirmation emails and attached vouchers under the Gmail label `Japan`.
+
+| Dates | Hotel | Booking details | NZD cost | Cancellation / payment | Notes |
+| --- | --- | --- | ---: | --- | --- |
+| 24-27 Dec 2026 | Hotel Ann Tsukiji, Tokyo | Agoda 2019204632; 1 Superior Single Non-Smoking room; 2 adults; 3 nights | Est. NZD 589.90 | Future-price charge in NZD due 22 Dec 2026; cancellation terms were not visible in the voucher and need verification | Address: 3-10-4 Tsukiji, Ginza, Tokyo 104-0045. Requests include high floor, large bed, quiet room, luggage storage, away from elevator; requests are not guaranteed. |
+| 31 Dec 2026-1 Jan 2027 | Ryokufuen Kiyoharu, Takayama | Agoda 2008050244; 1 Japanese-style 10-tatami non-smoking room; 2 adults | Est. NZD 359.27 | Future-price charge in NZD due 24 Dec 2026. Free cancellation before 26 Dec; within 5 days or no-show is 100% | Parking and Wi-Fi listed. Luggage storage requested, subject to availability. |
+| 1-5 Jan 2027 | Miyako Hotel Kyoto Hachijo | Newer Agoda 2012584248 / J22-184-013; 1 Twin Bed Room; 2 adults | Est. NZD 729.27 | Future-price charge in NZD due 29 Dec 2026. Free cancellation before 31 Dec; within 1 day is 20%; no-show is 100% | This is the latest labeled confirmation. |
+
+Kyoto reconciliation update, 2026-08-05: a fresh Gmail search of label `Japan` found only Booking ID 2012584248 for Miyako Hotel Kyoto Hachijo. The obsolete reservation previously noted here has been removed from the active trip records.
+
+Currency conversion: RBNZ reference rates for 5 Aug 2026, NZD 1 = JPY 92.55815 and NZD 1 = USD 0.58700. These are estimates only; Agoda's actual NZD future-price charges may differ.
 
 ### 2026-07-16 - Shirakawa-go Overnight, 29-30 Dec 2026
 

@@ -4,6 +4,9 @@ Use this file to collect links used during research.
 
 | Date Added | Topic | Source | URL | Notes |
 | --- | --- | --- | --- | --- |
+| 2026-08-05 | Confirmed flights | Latest Air New Zealand travel-documents email from Gmail label Japan, dated 24 Jun 2026 | https://www.airnewzealand.co.nz/manage-booking | Booking reference 8QN5WH. This email replaces earlier documents and shows CHC-NRT 12:35-20:10 on 24 Dec, NRT-AKL 18:30-09:00 on 7-8 Jan, and AKL-CHC 12:00-13:25 on 8 Jan. Flight details and total cost were confirmed by the user. |
+| 2026-08-05 | Confirmed hotels | Agoda booking confirmations from Gmail label Japan | https://www.agoda.com/ | Current labeled booking IDs include 2019204632, 2008050244, and 2012584248. A fresh Kyoto search found only Miyako Hotel Kyoto Hachijo Booking ID 2012584248. |
+| 2026-08-05 | Currency conversion | Reserve Bank of New Zealand - Exchange rates and Trade Weighted Index (B1) | https://www.rbnz.govt.nz/en/statistics/series/exchange-and-interest-rates/exchange-rates-and-the-trade-weighted-index | Official 5 Aug 2026 reference rates: NZD 1 = JPY 92.55815 and USD 0.58700. |
 | 2026-07-16 | Shirakawa-go accommodation | Shirakawa-go Tourist Association - Stay | https://shirakawa-go.gr.jp/en/stay/ | Official lodging directory and reservation/calendar entry point. |
 | 2026-07-16 | Shirakawa-go accommodation availability | Shirakawa-go Tourist Association / 489Pro availability calendar | https://www6.489pro.com/asp/g/c/calendar.asp?kid=00156&lan=ENG | Checked interactively for 29 Dec 2026, 1 night. Availability can change. |
 | 2026-07-16 | Otaya / Ootaya | Shirakawa-go Tourist Association - Otaya | https://shirakawa-go.gr.jp/en/stay/19/ | Official listing; gassho inn in Ogimachi near bus terminal. |
