@@ -6,6 +6,10 @@ This Codex project is a structured workspace for planning and researching the Ja
 
 Open [`dashboard/index.html`](dashboard/index.html) for the user-friendly itinerary, booking-status, and budget interface.
 
+Published dashboard: https://psprateek7.github.io/Trip/
+
+Changes under `dashboard/` are automatically deployed by GitHub Pages when pushed to `main`.
+
 Use it when you want Codex to:
 
 - Research accommodation, transport, activities, food, closures, luggage forwarding, or neighbourhood details.
