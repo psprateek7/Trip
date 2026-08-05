@@ -1,0 +1,59 @@
+# Source Links
+
+Use this file to collect links used during research.
+
+| Date Added | Topic | Source | URL | Notes |
+| --- | --- | --- | --- | --- |
+| 2026-07-16 | Shirakawa-go accommodation | Shirakawa-go Tourist Association - Stay | https://shirakawa-go.gr.jp/en/stay/ | Official lodging directory and reservation/calendar entry point. |
+| 2026-07-16 | Shirakawa-go accommodation availability | Shirakawa-go Tourist Association / 489Pro availability calendar | https://www6.489pro.com/asp/g/c/calendar.asp?kid=00156&lan=ENG | Checked interactively for 29 Dec 2026, 1 night. Availability can change. |
+| 2026-07-16 | Otaya / Ootaya | Shirakawa-go Tourist Association - Otaya | https://shirakawa-go.gr.jp/en/stay/19/ | Official listing; gassho inn in Ogimachi near bus terminal. |
+| 2026-07-16 | Shirakawago No Yu | Shirakawa-go Tourist Association - Shirakawago No Yu | https://shirakawa-go.gr.jp/en/stay/13/ | Official listing; ryokan/onsen in Ogimachi. |
+| 2026-07-16 | Shirakawago No Yu | Shirakawago No Yu official site | https://www.shirakawagou-onsen.jp/ | Official site; lodging/meal/onsen information. |
+| 2026-07-16 | Onyado Yui no Sho | Shirakawa-go Tourist Association - Onyado Yui no Sho | https://shirakawa-go.gr.jp/en/stay/45/ | Official listing; larger hotel in Iijima with pickup available. |
+| 2026-07-16 | Onyado Yui no Sho | Dormy Hotels / Kyoritsu Resort official site | https://dormy-hotels.com/resort/hotels/shirakawago/ | Official hotel site; facilities, meal notes, access. |
+| 2026-07-16 | Onyado Yui no Sho meal policy | Dormy Hotels news - low-allergen menu policy | https://dormy-hotels.com/resort/hotels/shirakawago/news/ | Low-allergen menu policy noted; not the same as vegetarian. |
+| 2026-07-16 | Shiroyamakan | Shirakawa-go Tourist Association - Shiroyamakan | https://shirakawa-go.gr.jp/en/stay/16/ | Official listing; historic ryokan in Ogimachi. |
+| 2026-07-16 | Shiroyamakan | Shiroyamakan official site | https://shiroyamakan.jp/en/ | Official site; cuisine/rooms/reservation link and news. |
+| 2026-07-16 | Shimizu | Shirakawa-go Tourist Association - Shimizu | https://shirakawa-go.gr.jp/en/stay/38/ | Official listing; sold out on 29 Dec 2026 in checked calendar. |
+| 2026-07-19 | Kanazawa accommodation | Smile Hotel Kanazawa Nishiguchi Ekimae official site | https://smile-hotels.com/hotels/show/kanazawanishiguchiekimae | Official details; station west exit, check-in/out, rooms/plans. |
+| 2026-07-19 | Kanazawa accommodation | Smile Hotel Kanazawa Nishiguchi Ekimae - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Ishikawa_Hotels/Kanazawa_Hakui_Hotels/Kanazawa_Yuwaku_Hotels/smile_hotel_kanazawa_nishiguchi_ekimae/ | Sample dynamic rates and cancellation policy; exact trip dates need verification. |
+| 2026-07-19 | Kanazawa accommodation | CHISUN BUDGET Kanazawa Ekimae official access | https://www.solarehotels.com/hotel/ishikawa/cb-kz/access.html | Official access; 5 min from Kanazawa Station west exit. |
+| 2026-07-19 | Kanazawa accommodation | CHISUN BUDGET Kanazawa Ekimae - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Ishikawa_Hotels/Kanazawa_Hakui_Hotels/Kanazawa_Yuwaku_Hotels/chisun_budget_kanazawa_ekimae/ | Sample dynamic rates and cancellation policy; exact trip dates need verification. |
+| 2026-07-19 | Kanazawa accommodation | CHISUN BUDGET Kanazawa Ekimae - Expedia | https://www.expedia.com/Kanazawa-Hotels-CHISUN-BUDGET-Kanazawa-Ekimae.h70251281.Hotel-Information | OTA benchmark for near-term pricing, breakfast, parking, check-in/out. |
+| 2026-07-19 | Kanazawa accommodation | HOTEL MYSTAYS Kanazawa Castle official site | https://www.mystays.com/en-us/location-hotel-mystays-kanazawa-castle-ishikawa/ | Official details; 5 min from station east exit. |
+| 2026-07-19 | Kanazawa accommodation | MYSTAYS cancellation policy | https://mystays.zendesk.com/hc/en-us/articles/205859958-How-much-is-the-cancellation-fee | Official chain-level cancellation policy; plan-specific policy may override. |
+| 2026-07-19 | Kanazawa accommodation | Hotel Forza Kanazawa official site | https://www.hotelforza.jp/kanazawa/en/ | Official details; access, breakfast, cancellation policy. |
+| 2026-07-19 | Kanazawa accommodation | Hotel Wing International Premium Kanazawa Ekimae official site | https://www.hotelwing.co.jp/en/kanazawa/ | Official details; station access, breakfast, parking. |
+| 2026-07-19 | Kanazawa accommodation | Hotel Wing International Premium Kanazawa Ekimae - Hotels.com | https://ie.hotels.com/ho648984416/hotel-wing-international-premium-kanazawa-ekimae-kanazawa-japan/ | OTA details; notes possible KOKO HOTEL name change and check-in hours. |
+| 2026-07-19 | Kanazawa accommodation | APA Hotel Kanazawa Ekimae official site | https://www3.apahotel.com/mt/hotel/hokuriku/ishikawa/kanazawa-ekimae/ | Official details; station access and public bath. |
+| 2026-07-19 | Kanazawa accommodation | APA Hotel Kanazawa Ekimae - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Ishikawa_Hotels/Kanazawa_Hakui_Hotels/Kanazawa_Yuwaku_Hotels/apa_hotel_kanazawa_ekimae/ | Sample dynamic rates and cancellation policy; exact trip dates need verification. |
+| 2026-07-19 | Kanazawa accommodation | Torifito Hotel & Pod Kanazawa Hyakumangokudori official site | https://torifito.jp/hyakumangokudori/en/ | Official hotel/pod details and location. |
+| 2026-07-19 | Kanazawa accommodation | Torifito Hotel & Pod FAQ | https://torifito.jp/hyakumangokudori/faq | Official FAQ; access, cancellation policy, check-in/out. |
+| 2026-07-19 | Takayama accommodation | Country Hotel Takayama official site | https://www.country-hotel.jp/ | Official hotel site; station/bus-terminal location and cancellation policy. |
+| 2026-07-19 | Takayama accommodation | Country Hotel Takayama - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Gifu_Hotels/Hida_Takayama_Hotels/Hida_Takayama_Hotels/country_hotel_takayama/ | Sample dynamic rates and cancellation policy; exact trip dates need verification. |
+| 2026-07-19 | Takayama accommodation | Hida Takayama Washington Hotel Plaza official site | https://washington.jp/takayama/ | Official details; station location, rooms, facilities. |
+| 2026-07-19 | Takayama accommodation | Washington Hotel Plaza cancellation FAQ | https://washington.jp/faq/ | Official chain FAQ; cancellation policy varies by party size and plan. |
+| 2026-07-19 | Takayama accommodation | Hida Takayama Washington Hotel Plaza - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Gifu_Hotels/Hida_Takayama_Hotels/Hida_Takayama_Hotels/hida_takayama_washington_hotel_plaza/ | Sample dynamic rates and cancellation policy; exact trip dates need verification. |
+| 2026-07-19 | Takayama accommodation | KOKO HOTEL Hidatakayama official site | https://koko-hotels.com/hida_takayama | Official hotel site; access, onsen, rooms. |
+| 2026-07-19 | Takayama accommodation | KOKO HOTEL Hidatakayama - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Gifu_Hotels/Hida_Takayama_Hotels/Hida_Takayama_Hotels/koko_hotel_hidatakayama/ | Sample dynamic rates and plan-specific cancellation policies. |
+| 2026-07-19 | Takayama accommodation | HOTEL KURETAKESO TAKAYAMAEKIMAE official site | https://kuretake-inn.com/hotel/takayamaekimae | Official hotel site; location and facilities. |
+| 2026-07-19 | Takayama accommodation | HOTEL KURETAKESO TAKAYAMAEKIMAE - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Gifu_Hotels/Hida_Takayama_Hotels/Hida_Takayama_Hotels/hotel_kuretake-so_takayamaekimae/ | Sample dynamic rates and plan notes; exact trip dates need verification. |
+| 2026-07-19 | Takayama accommodation | Chisun Grand Takayama official site | https://www.solarehotels.com/hotel/gifu/chisungrand-takayama/ | Official hotel details; station location and facilities. |
+| 2026-07-19 | Takayama accommodation | Chisun Grand Takayama - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Gifu_Hotels/Hida_Takayama_Hotels/Hida_Takayama_Hotels/chisun_grand_takayama/ | Sample dynamic rates and availability notes; exact trip dates need verification. |
+| 2026-07-19 | Takayama accommodation | Spa Hotel Alpina Hida Takayama official site | https://www.spa-hotel-alpina.com/en/ | Official hotel site; access, onsen, cancellation policy. |
+| 2026-07-19 | Takayama accommodation | Spa Hotel Alpina Hida Takayama - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Gifu_Hotels/Hida_Takayama_Hotels/Hida_Takayama_Hotels/spa_hotel_alpina_hida_takayama/ | Sample dynamic rates and hotel details; exact trip dates need verification. |
+| 2026-07-19 | Takayama accommodation | hotel around TAKAYAMA official site | https://hotel-around.com/takayama/ | Official hotel site; modern station-area option. |
+| 2026-07-19 | Takayama accommodation | hotel around TAKAYAMA - Jalan | https://www.jalan.net/en/japan_hotels_ryokan/Hotels/Gifu_Hotels/Hida_Takayama_Hotels/Hida_Takayama_Hotels/hotel_around_takayama/ | Sample dynamic rates and cancellation policy; exact trip dates need verification. |
+| 2026-07-19 | Takayama itinerary | Hida Takayama official tourism FAQ | https://www.hidatakayama.or.jp/faq/index.html | Official winter hours for Miyagawa and Jinya-mae morning markets; both described as year-round. Also lists station-area luggage facilities and winter cautions. |
+| 2026-07-19 | Takayama itinerary | Hida Folk Village official tourism listing | https://www.hidatakayama.or.jp/spot/detail_1104.html | Official listing states 08:30–17:00 and open year-round; special 2026 holiday operations still need reconfirmation. |
+| 2026-07-19 | Takayama itinerary | Takayama Jinya official visitor information | https://jinya.gifu.jp/en/guide/info/ | Official closure listed for 29 Dec–3 Jan. |
+| 2026-07-19 | Takayama itinerary | Takayama Tourist Information Center official listing | https://www.hidatakayama.or.jp/spot/detail_5437.html | Official listing states the information centre closes 30 Dec–2 Jan. |
+| 2026-07-19 | Shirakawa-go transfer | Shirakawa-go Tourist Association access guide | https://shirakawa-go.gr.jp/en/access/ | Official access overview: highway bus links from Kanazawa and onward toward Takayama. Exact Dec 2026 timetable needs verification. |
+| 2026-07-19 | Shirakawa-go transfer | Shirakawa-go Tourist Association FAQ | https://shirakawa-go.gr.jp/en/faq/5/ | Official guidance: village generally takes 2–3 hours; bus-terminal lockers/luggage storage operate 08:00–17:00; late December is heavy-snow season. |
+| 2026-07-28 | Final Tokyo accommodation | Hotel Chinzanso Tokyo accommodations | https://hotel-chinzanso-tokyo.com/accommodations/ | Official room sizes and hotel-guest spa pricing. |
+| 2026-07-28 | Final Tokyo accommodation | Hotel Chinzanso Tokyo spa | https://www.hotel-chinzanso-tokyo.com/spa/ | Official onsen, pool, sauna, gym, operating hours, and guest fees. |
+| 2026-07-28 | Final Tokyo accommodation | Hotel Chinzanso Tokyo access | https://hotel-chinzanso-tokyo.com/access/ | Official access by rail, bus, taxi, and airport transport. |
+| 2026-07-28 | Final Tokyo accommodation | Hotel Chinzanso Tokyo FAQ | https://hotel-chinzanso-tokyo.com/faq/ | Official 15:00 check-in, noon checkout, and early-arrival luggage storage. |
+| 2026-07-28 | Final Tokyo accommodation | sequence SUIDOBASHI official site | https://www.sequencehotels.com/suidobashi/eng/ | Official room sizes, 17:00 check-in, 14:00 checkout, breakfast update, and station access. |
+| 2026-07-28 | Final Tokyo accommodation | sequence SUIDOBASHI FAQ | https://www.sequencehotels.com/suidobashi/eng/faq/ | Official luggage storage, reservation window, cancellation terms, and cashless policy. |
+| 2026-07-28 | Final Tokyo accommodation prices | Google Hotels Tokyo metasearch | https://www.google.com/travel/hotels | Interactive exact-date check for 5-6 Jan and 6-7 Jan 2027, 1 room / 2 adults. Starting prices can change and final totals were not verified. |

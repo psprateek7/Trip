@@ -1,0 +1,12 @@
+# Local scratch space
+work/
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo
+
+# Temporary exports
+*.tmp
+*.bak
+
