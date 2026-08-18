@@ -960,7 +960,18 @@ html&gt;body{padding:0}&lt;/style&gt;
     #japan-trip-dashboard .todo .mark { background:light-dark(#fff0d2,#3d301b); color:light-dark(#8d5b00,#efc86f); }
     #japan-trip-dashboard .plan-item b { display:block; }
     #japan-trip-dashboard .plan-item span:last-child { color:light-dark(#68756e,#a4b1aa); font-size:12px; }
-    @media(max-width:620px){#japan-trip-dashboard .hero{padding:24px 20px 20px}#japan-trip-dashboard .view{padding:16px}#japan-trip-dashboard .stats{grid-template-columns:1fr}#japan-trip-dashboard .bookings,#japan-trip-dashboard .plan-grid{grid-template-columns:1fr}#japan-trip-dashboard .bar-row{grid-template-columns:90px 1fr 78px}}
+    #japan-trip-dashboard .visa-hero { padding:22px; border-radius:18px; background:linear-gradient(135deg,#173f35,#286b58); color:#fff; }
+    #japan-trip-dashboard .visa-hero small { opacity:.72; text-transform:uppercase; letter-spacing:.1em; }
+    #japan-trip-dashboard .visa-hero b { display:block; margin-top:5px; font-family:Georgia,serif; font-size:28px; font-weight:500; }
+    #japan-trip-dashboard .visa-hero p { margin-top:8px; opacity:.84; font-size:13px; line-height:1.5; }
+    #japan-trip-dashboard .visa-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px; }
+    #japan-trip-dashboard .visa-card { padding:17px; border:1px solid light-dark(#e0e8e3,#2b3932); border-radius:17px; background:light-dark(#fff,#151e19); }
+    #japan-trip-dashboard .visa-card h3 { margin:0 0 9px; font-size:15px; }
+    #japan-trip-dashboard .visa-card p,#japan-trip-dashboard .visa-card li { color:light-dark(#5d6b64,#afbbb4); font-size:12px; line-height:1.55; }
+    #japan-trip-dashboard .visa-card ul,#japan-trip-dashboard .visa-card ol { margin:0; padding-left:18px; }
+    #japan-trip-dashboard .visa-card .deadline { display:block; margin:7px 0 2px; color:#b74146; font-size:18px; font-weight:800; }
+    #japan-trip-dashboard .source-list { word-break:break-word; }
+    @media(max-width:620px){#japan-trip-dashboard .hero{padding:24px 20px 20px}#japan-trip-dashboard .view{padding:16px}#japan-trip-dashboard .stats{grid-template-columns:1fr}#japan-trip-dashboard .bookings,#japan-trip-dashboard .plan-grid,#japan-trip-dashboard .visa-grid{grid-template-columns:1fr}#japan-trip-dashboard .bar-row{grid-template-columns:90px 1fr 78px}}
   &lt;/style&gt;
   &lt;div class=&quot;shell&quot;&gt;
     &lt;header class=&quot;hero&quot;&gt;
@@ -974,6 +985,7 @@ html&gt;body{padding:0}&lt;/style&gt;
       &lt;button type=&quot;button&quot; aria-selected=&quot;false&quot; data-tab=&quot;overview&quot;&gt;Overview&lt;/button&gt;
       &lt;button type=&quot;button&quot; aria-selected=&quot;false&quot; data-tab=&quot;itinerary&quot;&gt;Itinerary&lt;/button&gt;
       &lt;button type=&quot;button&quot; aria-selected=&quot;false&quot; data-tab=&quot;bookings&quot;&gt;Bookings&lt;/button&gt;
+      &lt;button type=&quot;button&quot; aria-selected=&quot;false&quot; data-tab=&quot;visa&quot;&gt;Visa&lt;/button&gt;
       &lt;button type=&quot;button&quot; aria-selected=&quot;false&quot; data-tab=&quot;budget&quot;&gt;Budget&lt;/button&gt;
     &lt;/nav&gt;
 
@@ -1004,6 +1016,7 @@ html&gt;body{padding:0}&lt;/style&gt;
         &lt;div class=&quot;plan-column&quot;&gt;
           &lt;h3&gt;Booking decisions&lt;/h3&gt;
           &lt;div class=&quot;plan-item todo&quot;&gt;&lt;span class=&quot;mark&quot;&gt;1&lt;/span&gt;&lt;div&gt;&lt;b&gt;29 Dec accommodation clash&lt;/b&gt;&lt;span&gt;Choose Minshuku Koshiyama or Hotel Kuretakeso and cancel one before penalties apply&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
+          &lt;div class=&quot;plan-item todo&quot;&gt;&lt;span class=&quot;mark&quot;&gt;2&lt;/span&gt;&lt;div&gt;&lt;b&gt;Japan tourist visas · both travellers&lt;/b&gt;&lt;span&gt;Prepare two paper applications and target lodging from 24 Sep 2026&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;plan-column&quot;&gt;
           &lt;h3&gt;Ground transport&lt;/h3&gt;
@@ -1022,6 +1035,7 @@ html&gt;body{padding:0}&lt;/style&gt;
         &lt;div class=&quot;stat&quot;&gt;&lt;b&gt;4&lt;/b&gt;&lt;span&gt;flight sectors&lt;/span&gt;&lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;section-title&quot;&gt;Needs your attention&lt;/div&gt;
+      &lt;div class=&quot;alert&quot;&gt;&lt;span class=&quot;icon&quot;&gt;!&lt;/span&gt;&lt;div&gt;&lt;strong&gt;Tourist visas required for Prateek and Sakshi&lt;/strong&gt;Indian passport holders residing in New Zealand are not visa-exempt. Current route is a paper Temporary Visitor application; target lodging from 24 September 2026. See the Visa tab.&lt;/div&gt;&lt;/div&gt;
       &lt;div class=&quot;alert&quot;&gt;&lt;span class=&quot;icon&quot;&gt;!&lt;/span&gt;&lt;div&gt;&lt;strong&gt;Overlapping booking on 29 December&lt;/strong&gt;Minshuku Koshiyama and Hotel Kuretakeso are both held for the same night. Check cancellation deadlines and cancel one after choosing the Shirakawa-go overnight plan.&lt;/div&gt;&lt;/div&gt;
       &lt;div class=&quot;section-title&quot;&gt;Next booked moment&lt;/div&gt;
       &lt;div class=&quot;next&quot;&gt;&lt;small&gt;Thu 24 Dec · Christchurch Airport&lt;/small&gt;&lt;b&gt;Flight to Tokyo departs at 12:35 PM&lt;/b&gt;&lt;/div&gt;
@@ -1049,6 +1063,29 @@ html&gt;body{padding:0}&lt;/style&gt;
         &lt;article class=&quot;booking&quot;&gt;&lt;div class=&quot;type&quot;&gt;Kyoto · 4 nights&lt;/div&gt;&lt;h3&gt;Miyako Hotel Kyoto Hachijo&lt;/h3&gt;&lt;div class=&quot;dates&quot;&gt;1–5 Jan · Agoda 2012584248&lt;/div&gt;&lt;div class=&quot;price&quot;&gt;Est. NZD 729.27&lt;/div&gt;&lt;div class=&quot;meta&quot;&gt;Twin Bed Room for 2 adults · future-price charge due 29 Dec.&lt;/div&gt;&lt;span class=&quot;status&quot;&gt;Confirmed&lt;/span&gt;&lt;/article&gt;
         &lt;article class=&quot;booking&quot;&gt;&lt;div class=&quot;type&quot;&gt;Tokyo · 2 nights&lt;/div&gt;&lt;h3&gt;Hotel Sardonyx Tokyo&lt;/h3&gt;&lt;div class=&quot;dates&quot;&gt;5–7 Jan · Agoda 2042344549&lt;/div&gt;&lt;div class=&quot;price&quot;&gt;NZD 320.00&lt;/div&gt;&lt;div class=&quot;meta&quot;&gt;Hatchobori · check-in from 3:00 PM · room type and cancellation terms need verification.&lt;/div&gt;&lt;span class=&quot;status&quot;&gt;Confirmed&lt;/span&gt;&lt;/article&gt;
       &lt;/div&gt;
+    &lt;/section&gt;
+
+    &lt;section class=&quot;view&quot; data-view=&quot;visa&quot;&gt;
+      &lt;div class=&quot;visa-hero&quot;&gt;&lt;small&gt;Prateek + Sakshi · Indian passports · NZ residents&lt;/small&gt;&lt;b&gt;Two tourist visas required&lt;/b&gt;&lt;p&gt;Apply for paper Temporary Visitor visas through the Japanese office responsible for your New Zealand residential address. Japan eVISA is not currently available to residents of New Zealand. Research checked 18 Aug 2026.&lt;/p&gt;&lt;/div&gt;
+      &lt;div class=&quot;section-title&quot;&gt;Trip-specific timing&lt;/div&gt;
+      &lt;div class=&quot;visa-grid&quot;&gt;
+        &lt;article class=&quot;visa-card&quot;&gt;&lt;h3&gt;When to apply&lt;/h3&gt;&lt;span class=&quot;deadline&quot;&gt;From 24 Sep 2026&lt;/span&gt;&lt;p&gt;Target 24 Sep–9 Oct. Most visas can be lodged from three months before entry. Wellington/Christchurch currently publish about 2–3 weeks; there is no urgent service and peak season is Sep–Dec.&lt;/p&gt;&lt;/article&gt;
+        &lt;article class=&quot;visa-card&quot;&gt;&lt;h3&gt;Fee for both&lt;/h3&gt;&lt;span class=&quot;deadline&quot;&gt;NZD 20 total&lt;/span&gt;&lt;p&gt;Current special fee is NZD 10 per Indian passport holder for applications made 1 Jul 2026–31 Mar 2027, payable if issued. Published paper process says cash at collection. Recheck before lodging.&lt;/p&gt;&lt;/article&gt;
+        &lt;article class=&quot;visa-card&quot;&gt;&lt;h3&gt;Eligibility gate&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Each person needs valid NZ resident, work, student or guardian status.&lt;/li&gt;&lt;li&gt;NZ visitor-visa holders cannot lodge through the NZ offices.&lt;/li&gt;&lt;li&gt;Passport must remain valid through departure from Japan and have blank space.&lt;/li&gt;&lt;/ul&gt;&lt;/article&gt;
+        &lt;article class=&quot;visa-card&quot;&gt;&lt;h3&gt;Likely office&lt;/h3&gt;&lt;p&gt;If you live in Canterbury, use the Consular Office of Japan in Christchurch; no appointment is currently required. Visa counter: Mon–Fri 9:00–12:00 and 13:30–16:00. Confirm the current address before visiting because relocation notices have been published.&lt;/p&gt;&lt;/article&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;section-title&quot;&gt;One complete, unstapled set per traveller&lt;/div&gt;
+      &lt;div class=&quot;visa-grid&quot;&gt;
+        &lt;article class=&quot;visa-card&quot;&gt;&lt;h3&gt;Identity and status&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Original signed Indian passport&lt;/li&gt;&lt;li&gt;Completed and passport-matching signed application form&lt;/li&gt;&lt;li&gt;Fresh 45 × 35 mm photo, taken within 6 months&lt;/li&gt;&lt;li&gt;Proof of qualifying long-term NZ immigration status&lt;/li&gt;&lt;/ul&gt;&lt;/article&gt;
+        &lt;article class=&quot;visa-card&quot;&gt;&lt;h3&gt;Travel evidence&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Official schedule-of-stay template with daily activities&lt;/li&gt;&lt;li&gt;Air New Zealand confirmation 8QN5WH, including travel into/out of NZ&lt;/li&gt;&lt;li&gt;Every hotel confirmation; explain the deliberate 29 Dec overlap&lt;/li&gt;&lt;li&gt;Proof of relationship if required for shared bookings/dependent funding&lt;/li&gt;&lt;/ul&gt;&lt;/article&gt;
+        &lt;article class=&quot;visa-card&quot;&gt;&lt;h3&gt;Financial evidence&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Recently issued statements with at least 3 months of transactions&lt;/li&gt;&lt;li&gt;Sufficient funds and visible source of income&lt;/li&gt;&lt;li&gt;Use multiple statements where funds are split&lt;/li&gt;&lt;li&gt;No official minimum balance is published; ask the office if one traveller funds the other&lt;/li&gt;&lt;/ul&gt;&lt;/article&gt;
+        &lt;article class=&quot;visa-card&quot;&gt;&lt;h3&gt;Keep ready if requested&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Employment/enrolment and approved-leave evidence&lt;/li&gt;&lt;li&gt;Payslips and NZ residential-address evidence&lt;/li&gt;&lt;li&gt;Explanation of unusual bank transactions&lt;/li&gt;&lt;li&gt;Completed current online self-assessment checklist&lt;/li&gt;&lt;/ul&gt;&lt;/article&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;section-title&quot;&gt;Application sequence&lt;/div&gt;
+      &lt;article class=&quot;visa-card&quot;&gt;&lt;ol&gt;&lt;li&gt;Confirm both NZ statuses and your home-address jurisdiction.&lt;/li&gt;&lt;li&gt;Recheck the responsible office, address, holidays, forms, fees and procedure in late September.&lt;/li&gt;&lt;li&gt;Prepare two consistent, separately signed and unstapled application sets.&lt;/li&gt;&lt;li&gt;Lodge in person; Christchurch/Wellington currently need no appointment, while Auckland does.&lt;/li&gt;&lt;li&gt;Wait for the decision email. Additional documents or an interview may be requested.&lt;/li&gt;&lt;li&gt;Collect passports as instructed, pay any issuance fees, and check every visa detail immediately.&lt;/li&gt;&lt;li&gt;Complete Visit Japan Web before departure for arrival formalities; it does not replace the visa.&lt;/li&gt;&lt;/ol&gt;&lt;/article&gt;
+      &lt;div class=&quot;section-title&quot;&gt;Needs verification&lt;/div&gt;
+      &lt;div class=&quot;alert&quot;&gt;&lt;span class=&quot;icon&quot;&gt;!&lt;/span&gt;&lt;div&gt;&lt;strong&gt;Confirm before lodging&lt;/strong&gt;Your exact NZ status and residential jurisdiction; current Christchurch address; treatment of shared bookings/funding and relationship evidence; submission/collection arrangement; current fee, office hours and forms.&lt;/div&gt;&lt;/div&gt;
+      &lt;div class=&quot;footnote source-list&quot;&gt;Official sources: nz.emb-japan.go.jp/itpr_en/temp_visitors_visa.html · nz.emb-japan.go.jp/itpr_en/visa-faq.html · nz.emb-japan.go.jp/itpr_en/consular_office.html · auckland.nz.emb-japan.go.jp/itpr_en/visa.html · auckland.nz.emb-japan.go.jp/itpr_en/visa_fees.html · mofa.go.jp/j_info/visit/visa/visaonline.html. Full research and clickable links are stored in data/visa/japan-tourist-visa-research.md.&lt;/div&gt;
     &lt;/section&gt;
 
     &lt;section class=&quot;view&quot; data-view=&quot;budget&quot;&gt;
