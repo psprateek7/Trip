@@ -9,7 +9,8 @@ Use this file for research notes, hotel shortlists, and comparisons. Do not move
 | 24-27 Dec 2026 | Tokyo, Tsukiji | 3 | Booked | Hotel Ann Tsukiji via Agoda, Booking ID 2019204632. See 2026-08-05 research log. |
 | 27-29 Dec 2026 | Kanazawa | 2 | Booked | Hotel Forza Kanazawa via Agoda.com. Total NZD 298. Payment settles 24 Dec 2026. Free cancellation until 24 Dec 2026. |
 | 29-31 Dec 2026 | Takayama | 2 | Booked | Hotel Kuretakeso Takayama-Ekimae via Trip.com. Total NZD 246.42 prepaid online, plus JPY 600 accommodation tax at hotel. Free cancellation before 23:59 on 25 Dec 2026 hotel local time. |
-| 5-7 Jan 2027 | Tokyo | 2 | To research | Final stay before evening flight to Christchurch. |
+| 29-30 Dec 2026 | Shirakawa-go | 1 | Booked - conflict | Minshuku Koshiyama via Booking.com. Quadruple room, total NZD 357.45. Overlaps Hotel Kuretakeso Takayama-Ekimae on 29 Dec; one booking will eventually be cancelled. |
+| 5-7 Jan 2027 | Tokyo, Hatchobori | 2 | Booked | Hotel Sardonyx Tokyo via Agoda.com. Total NZD 320. Booking ID 2042344549. Check-in 5 Jan at 15:00; check-out 7 Jan. Room type and cancellation terms need verification. |
 
 ## Research Log
 
@@ -62,6 +63,18 @@ Recommendation: Try **Otaya** first because it is the only available option foun
 - Whether the stay includes dinner and breakfast, and what cancellation policy applies.
 
 If Otaya cannot accommodate vegetarian meals, use **Shirakawago No Yu** as the practical in-village backup. Use **Onyado Yui no Sho** only if comfort and booking certainty matter more than the intimate village-house experience.
+
+Decision update, 2026-08-18: **Minshuku Koshiyama booked for 29-30 Dec 2026 as a possible Shirakawa-go overnight.** This creates a deliberate clash with the confirmed Hotel Kuretakeso Takayama-Ekimae booking for 29-31 Dec. Keep both bookings visible until the user chooses whether to sleep in Shirakawa-go or continue to Takayama on 29 Dec; do not treat both as simultaneously usable.
+
+- Booking platform: Booking.com.
+- Stay: 1 night, 1 quadruple room.
+- Check-in: 29 Dec 2026, 15:00-18:00.
+- Checkout: 30 Dec 2026, by 10:00.
+- Total: NZD 357.45. Screenshot displays room amount NZD 317.02, 10% VAT NZD 31.70, and service fee NZD 8.72; use the displayed total as authoritative.
+- Booking number: 5987501013. PIN deliberately not stored.
+- Phone: +81 5769-6-1051.
+- Address shown in confirmation: 民宿 古志山 501-5629. Full Romanized street address needs verification.
+- Needs verification: cancellation deadline and fee, payment timing/status, meal inclusion, guest count/bed setup within the quadruple room, and vegetarian meal practicality.
 
 ### 2026-07-19 - Kanazawa Budget Hotels, 27-29 Dec 2026
 
@@ -150,3 +163,31 @@ Needs verification before booking:
 - Final price including taxes, chosen room, breakfast, and cancellation terms.
 - Whether the Chinzanso rate includes spa access or charges it separately.
 - Whether the convenience of two hotel experiences is worth losing time to the 6 Jan transfer.
+
+### 2026-08-18 - Final Tokyo Comfortable-Economical Rework, 5-7 Jan 2027
+
+Research date: 2026-08-18
+
+Confirmed dates: check out in Kyoto and travel to Tokyo on Tue 5 Jan 2027; stay in Tokyo on the nights of 5 and 6 Jan; depart Tokyo for Christchurch on Thu 7 Jan 2027 in the evening.
+
+Revised goal: one comfortable yet economical hotel for both nights. This supersedes the earlier luxury/value split as the current research direction, but does not delete the earlier candidates or confirm a booking.
+
+Assumption: 1 room, 2 adults. Bed preference and departure airport are still unknown. Price figures are Google Hotels nightly snapshots for 5-6 Jan 2027 retrieved on 2026-08-18; they are not verified two-night totals. Taxes, cancellation policy, room availability, and the 6 Jan nightly rate can change and must be checked before booking.
+
+| Option | Area and access | Comfortable room choice | Nightly price snapshot | Why it fits | Tradeoffs | Recommendation |
+| --- | --- | --- | ---: | --- | --- | --- |
+| Hotel Sardonyx Tokyo | Hatchobori; 1 min from Tokyo Metro Hatchobori, 4 min from JR Hatchobori, about 15 min walk or 5 min taxi from Tokyo Station | Sardonyx Double: 24m², 160cm bed and sofa. Standard Twin: 24m² with two 140cm beds. All rooms are at least 24m² and use Serta beds. | Official-site option displayed from about NZ$172; OTA options were substantially higher | Best space-for-money balance; easy arrival from Kyoto via Tokyo Station; practical for Ginza, Nihombashi, Tsukiji and eastern Tokyo; 11:00 checkout and luggage storage | No public bath; Hatchobori is convenient rather than atmospheric; exact official rate/room and two-night total need verification | **First choice overall.** Prefer the 24m² Sardonyx Double for one bed or Standard Twin for separate beds. |
+| VIA INN PRIME AKASAKA Akane no Yu | Akasaka; 3 min from Akasaka Station and 4 min from Tameike-sanno | Deluxe Double or Twin: 19m². The lowest displayed single/Via Inn rooms are only about 14m² with a 140cm bed | From about NZ$152 via Expedia for the smallest room | Lowest price snapshot; large indoor bath plus outdoor-style silky bath; modern Japanese feel; good access to Shibuya, Shinjuku, Roppongi and central Tokyo | Less convenient from the Kyoto Shinkansen than Tokyo Station/Hatchobori; cheapest room is compact for two adults; tattoos are not permitted in the public bath | **Best relaxation-value option** if the 19m² double/twin remains reasonably priced. Avoid choosing solely on the 14m² headline rate. |
+| Hotel Ryumeikan Tokyo | Yaesu; about 3 min walk from Tokyo Station Yaesu North Exit | Standard room: 17.5m² with 140cm bed; larger/premium rooms available | From about NZ$272 via Booking.com for a small economy double | Easiest arrival from Kyoto; refined small-hotel feel; excellent base for final shopping and departure logistics; 14:00 check-in and 11:00 checkout | Headline room is smaller and dearer than Sardonyx; premium rooms may no longer be economical | **Best convenience upgrade** if avoiding transfers is worth roughly NZ$100 more per night. |
+| Daiwa Roynet Hotel Tokyo Kyobashi PREMIER | Kyobashi; 7 min walk from Tokyo Station Yaesu South Exit and 1 min from Kyobashi Station | All rooms at least 21m²; bathrooms have bathtub separated from toilet; twins from 27m² | From about NZ$307 via Booking.com | Most polished and comfortable conventional hotel in the shortlist; spacious by Tokyo standards; excellent rail access; 14:00 check-in; convenience store downstairs | Highest price; breakfast is a limited set at Komeda Coffee rather than a full hotel buffet; may be outside an economical budget | **Comfort upgrade**, not the value winner. Choose only if a refundable two-night rate is close to Ryumeikan. |
+
+Recommendation order:
+
+1. **Hotel Sardonyx Tokyo** for the strongest overall balance of room size, location and price.
+2. **VIA INN PRIME AKASAKA** if a public bath matters and a 19m² double/twin is available at a good total.
+3. **Hotel Ryumeikan Tokyo** if Tokyo Station convenience matters more than room size.
+4. **Daiwa Roynet Tokyo Kyobashi PREMIER** if willing to pay more for a larger room and separated bath/toilet.
+
+Booking checks still required: compare refundable room-only totals for 5-7 Jan, confirm one bed versus twin beds, confirm Haneda versus Narita departure, and inspect the final tax/cancellation screen. Do not book the cheapest VIA INN or Ryumeikan room without checking its bed width and floor space for two adults.
+
+Decision update: **Hotel Sardonyx Tokyo booked via Agoda.com for 5-7 Jan 2027 for a total of NZD 320.** Booking ID 2042344549. The confirmation screenshot shows a 15:00 check-in on 5 Jan, checkout on 7 Jan, hotel phone +81 3-3553-7200, and address 1-13-7 Hatchobori, Chuo-ku, Tokyo 104-0032. Room type, occupancy, breakfast, payment and cancellation terms need verification.

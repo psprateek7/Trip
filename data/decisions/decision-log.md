@@ -78,3 +78,30 @@ Use this file for final choices and the reasoning behind them.
 - Cost: Estimated NZD 729.27 using the 5 Aug 2026 RBNZ reference rate. Agoda will calculate the actual NZD future-price charge on 29 Dec 2026.
 - Cancellation: Free before 31 Dec 2026; within 1 day of arrival is 20%; no-show is 100%.
 - Follow-up: None for duplication; retain normal monitoring of the future-price charge and cancellation deadline.
+
+## 2026-08-18 - Final Tokyo Accommodation Booked
+
+- Decision: Booked Hotel Sardonyx Tokyo via Agoda.com.
+- Applies to: Final Tokyo stay, 5-7 Jan 2027, 2 nights.
+- Booking total: NZD 320.
+- Check-in/out: Check-in at 15:00 on 5 Jan 2027; check-out on 7 Jan 2027.
+- Booking reference: Agoda Booking ID 2042344549.
+- Hotel details: 1-13-7 Hatchobori, Chuo-ku, Tokyo 104-0032, Japan. Phone: +81 3-3553-7200.
+- Why this choice: Strong comfort-to-cost balance, rooms of at least 24m², very close to Hatchobori Station, and convenient for the final Tokyo stay after arriving by Shinkansen from Kyoto.
+- Tradeoffs: Not directly attached to Tokyo Station; reaching the hotel with luggage is easiest by a short taxi from the Yaesu side. No public bath.
+- Source links: Agoda booking confirmation screenshot provided by user on 2026-08-18; hotel official site: https://www.hotel-sardonyx.com/tokyo/english/
+- Follow-up: Record room type and bed setup, number of guests, breakfast inclusion, payment status and cancellation deadline from the full Agoda confirmation.
+
+## 2026-08-18 - Minshuku Koshiyama Held as Conflicting Shirakawa-go Option
+
+- Decision: Booked Minshuku Koshiyama via Booking.com as a possible Shirakawa-go overnight; retain the existing Takayama booking temporarily and later cancel one.
+- Applies to: 29-30 Dec 2026, 1 night, 1 quadruple room.
+- Booking total: NZD 357.45. The confirmation displays NZD 317.02 room amount, NZD 31.70 for 10% VAT, and NZD 8.72 service fee.
+- Check-in/out: Check-in 15:00-18:00 on 29 Dec; checkout by 10:00 on 30 Dec.
+- Booking reference: Booking.com Booking No. 5987501013. PIN not recorded.
+- Hotel details: Phone +81 5769-6-1051. Address shown in confirmation as 民宿 古志山 501-5629; complete Romanized address needs verification.
+- Conflict: This reservation overlaps the night of 29 Dec in the Hotel Kuretakeso Takayama-Ekimae booking for 29-31 Dec 2026. Both cannot be used; one must be cancelled after the route decision.
+- Why hold it: Preserves the option of staying overnight in Shirakawa-go rather than treating the village only as a transfer-day visit.
+- Tradeoffs: NZD 357.45 for one night is substantially more expensive than the two-night Takayama hotel booking, and keeping both creates cancellation-deadline risk.
+- Source links: Booking.com confirmation screenshots provided by user on 2026-08-18.
+- Follow-up: Urgently record the Minshuku Koshiyama cancellation deadline/payment terms and decide which overlapping booking to cancel before the earliest penalty date. Also verify meals, guest count, bed setup and vegetarian practicality.
