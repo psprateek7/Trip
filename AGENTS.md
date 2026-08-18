@@ -25,6 +25,15 @@ Before editing files:
 4. Link sources in `data/source-links/`.
 5. If a recommendation is made, add the rationale and tradeoffs.
 
+## Dashboard Synchronization
+
+- Treat `dashboard/index.html` as a required presentation layer for the current trip plan.
+- Whenever an itinerary, booking, cancellation, decision, transport plan, accommodation status, date, price, budget, or task status changes, update the relevant source-of-truth files and `dashboard/index.html` in the same change.
+- Keep dashboard totals, booked-night counts, alerts, status labels, itinerary entries, booking cards, prices, and budget summaries consistent with the underlying data.
+- Deliberate booking conflicts must appear clearly on the dashboard and must not be counted twice in confirmed-spend totals unless both bookings will be used.
+- Before completing the task, validate that the dashboard contains the new information and no longer contains the superseded status or value.
+- When changes are committed and pushed, verify the published dashboard at `https://psprateek7.github.io/Trip/`. Account for deployment delay or caching, and do not report the live dashboard as updated until the published page reflects the change.
+
 ## Recommended Research Flow
 
 1. Clarify the task if the dates, city, budget, or traveller preferences are missing.
@@ -34,6 +43,7 @@ Before editing files:
 5. Save source links.
 6. Update the relevant data file.
 7. If the user chooses an option, add a decision record in `data/decisions/`.
+8. Synchronize and validate `dashboard/index.html` whenever the plan or its status changes.
 
 ## Accommodation Comparison Criteria
 
