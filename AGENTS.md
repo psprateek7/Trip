@@ -79,11 +79,10 @@ Use these criteria unless the user asks for something different:
 - Tokyo stay: **24 Dec 2026** at newly booked Tokyo hotel.
 - Tokyo area preference: **Tsukiji / Higashi-Ginza** for **25-27 Dec 2026**.
 - Kanazawa: **27-29 Dec 2026**.
-- Shirakawa-go visit: **29 Dec 2026**, between Kanazawa and Takayama.
+- Shirakawa-go visit: **29 Dec 2026**. Minshuku Koshiyama is also booked for **29-30 Dec 2026**, creating a deliberate overlap with Hotel Kuretakeso Takayama-Ekimae; one booking will eventually be cancelled.
 - Takayama: **29 Dec 2026 to 1 Jan 2027**.
 - Confirmed Takayama ryokan: **Ryokufuen Kiyoharu**, **31 Dec 2026**.
 - Kyoto: **1-5 Jan 2027**.
 - Confirmed Kyoto hotel: **Miyako Hotel Kyoto Hachijo**, **1-5 Jan 2027**.
-- Tokyo final stay: **5-7 Jan 2027**, hotel still to book.
+- Confirmed Tokyo final stay: **Hotel Sardonyx Tokyo**, **5-7 Jan 2027**.
 - Departure: **Thu 7 Jan 2027**, evening return flight to Christchurch.
-
